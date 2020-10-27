@@ -1,0 +1,17 @@
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.exe
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.deps.json
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.runtimeconfig.json
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.runtimeconfig.dev.json
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.dll
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\TransferNexx.pdb
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.csprojAssemblyReference.cache
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.AssemblyInfoInputs.cache
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.AssemblyInfo.cs
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.dll
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.pdb
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.genruntimeconfig.cache
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.csproj.CoreCompileInputs.cache
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\DragonSkyNocturne\source\repos\NexxAPI\TransferNexx\obj\Debug\netcoreapp3.1\TransferNexx.csproj.CopyComplete
